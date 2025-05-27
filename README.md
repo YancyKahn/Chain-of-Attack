@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<a href="https://github.com/YancyKahn">Xikang Yang</a><sup>1,2</sup>, Biyu Zhou<sup>1</sup>, Xuehai Tang<sup>1</sup>, Jizhong Han<sup>1</sup>, Songlin Hu<sup>1</sup>
+<a href="https://github.com/YancyKahn">Xikang Yang</a><sup>1,2</sup>, Biyu Zhou<sup>1</sup>, Xuehai Tang<sup>1</sup>, Jizhong Han<sup>1</sup>, Songlin Hu<sup>1,2</sup>
 
 <p>
 <sup>1</sup>Institute of Information Engineering, Chinese Academy of Sciences / Beijing, China
