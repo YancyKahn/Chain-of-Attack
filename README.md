@@ -65,7 +65,7 @@ python main.py --attack-model "gpt-4o" --target-model "oneapi-llama3-70b" --judg
 
 ## Acknowledgement
 
-Our project built upon the work from [llm-attack](https://github.com/llm-attacks/llm-attacks), [PAIR](https://github.com/patrickrchao/JailbreakingLLMs), [FastChat](https://github.com/lm-sys/FastChat.git). We appreciated these open-sourced work in the community.
+Our project built upon the work from [llm-attack](https://github.com/llm-attacks/llm-attacks), [PAIR](https://github.com/patrickrchao/JailbreakingLLMs), [FastChat](https://github.com/lm-sys/FastChat.git), [Simple-One-API](https://github.com/fruitbars/simple-one-api). We appreciated these open-sourced work in the community.
 
 
 ## Citation
