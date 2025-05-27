@@ -18,7 +18,7 @@
 
 **ACL Findings 2025**
 
-[[Paper v1](https://arxiv.org/pdf/2405.05610)] &nbsp;&nbsp; [[Paper latest](https://openreview.net/pdf?id=hwasvl5y4A)]
+[[Paper v1](https://arxiv.org/pdf/2405.05610)] &nbsp;&nbsp; [[Paper latest](https://openreview.net/pdf?id=Bti32sJTwr)]
 </div>
 
 ---
