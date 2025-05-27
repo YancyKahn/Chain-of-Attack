@@ -13,9 +13,8 @@
 <sup>2</sup>School of Cyber Security, University of Chinese Academy of Sciences / Beijing, China
 </p>
 
-<span style="color: red; font-weight: bold;">
-Warning: This paper may include harmful or unethical content from LLMs.
-</span>
+**Warning: This paper may include harmful or unethical content from LLMs.**
+
 
 **ACL Findings 2025**
 
