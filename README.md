@@ -16,7 +16,7 @@
 **Warning: This paper may include harmful or unethical content from LLMs.**
 
 
-**ACL Findings 2025**
+**ACL 2025 Findings**
 
 [[Paper v1](https://arxiv.org/pdf/2405.05610)] &nbsp;&nbsp; [[Paper latest](https://openreview.net/pdf?id=Bti32sJTwr)]
 </div>
